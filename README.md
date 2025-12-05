@@ -1,5 +1,8 @@
 # Predictive-Modeling-of-Diabetes-Risk-Using-Health-Behavior-Indicators
 End-to-end diabetes risk prediction project using balanced and imbalanced datasets. Features data cleaning, model tuning, feature selection, and SHAP interpretability, with comparative evaluation of Logistic Regression, Random Forest, and XGBoost models.
+# Project Presentation 
+https://youtu.be/3UyLPXzYS70 
+
 # Overview
 
 This project applies machine learning to predict diabetes risk using health behavior indicators from the CDC BRFSS 2015 dataset. The goal is to develop an interpretable, scalable, and clinically meaningful Clinical Decision Support (CDS) system that identifies high-risk individuals early.
